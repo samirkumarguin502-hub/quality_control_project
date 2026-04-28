@@ -1,0 +1,8 @@
+runs/
+dataset/
+pcb-defect-dataset/
+*.jpg
+*.png
+*.pt
+__pycache__/
+venv/
